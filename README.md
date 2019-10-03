@@ -1,5 +1,5 @@
 # Brainhack Princeton 2019
-Project repository for Brainhack Princeton 2019 (https://brainhack-princeton.github.io/2019)
+Project repository for Brainhack Princeton 2019 (website: https://brainhack-princeton.github.io/2019)
 
 [![register](https://img.shields.io/badge/brainhack-register-orange)](https://forms.gle/rNYuaaYHiYN9mGiA6)
 [![mattermost](https://img.shields.io/badge/brainhack-mattermost-orange)](https://mattermost.brainhack.org)
