@@ -2,14 +2,16 @@
 Project repository for Brainhack Princeton 2019 (https://brainhack-princeton.github.io/2019)
 
 [![register](https://img.shields.io/badge/brainhack-register-orange)](https://forms.gle/rNYuaaYHiYN9mGiA6)
+[![mattermost](https://img.shields.io/badge/brainhack-mattermost-orange)](https://mattermost.brainhack.org)
+[![project](https://img.shields.io/badge/brainhack-project-orange)](https://github.com/brainhack-princeton/brainhack-princeton-2019/issues)
 
 Brainhack Princeton 2019 is a satellite event for [Brainhack Global 2019](http://www.brainhack.org/global2019/) taking place November 13th–15th at Princeton University. Brainhack is 3-day intensely collaborative hackathon focused on best practices in open neuroscience, including community, infrastructure, and software development. Brainhacks are a great opportunity to discover new tools, push the boundaries of open science, and meet collaborators building tomorrow's neuroscience. Our goal is to create a space where anyone can learn and contribute, even if this is your first hackathon. Meals and refreshments will be provided for registered participants.
 
 ### When and where
-9am–6pm, November 13th–15th, 2019
-A-Level Study Area, Princeton Neuroscience Institute
-Princeton University
-Princeton, NJ
+9am–6pm, November 13th–15th, 2019  
+A-Level Study Area, Princeton Neuroscience Institute  
+Princeton University  
+Princeton, NJ  
 
 ### Code of conduct
 All hackathon participants are expected to follow the [Brainhack Global Code of Conduct](http://www.brainhack.org/code-of-conduct.html) at all times during the event.
