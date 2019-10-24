@@ -23,3 +23,8 @@ Project proposals can be submitted as [Issues](https://github.com/brainhack-prin
 Project leader(s): Anne Mennen, Lizzie McDevitt, Sam Nastase
 * **BrainIAK Tutorials**  
 Project leader(s): Manoj Kumar
+
+### Sponsors
+ReproNim: A Center for Reproducible Neuroimaging Computation  |  Intel Labs
+:-------------------------:|:-------------------------:
+![alt-text](https://www.repronim.org/images/logo-square-256.png "ReproNim")  |  ![alt-text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/200px-Intel-logo.svg.png "Intel")
