@@ -25,4 +25,5 @@ Project leader(s): Anne Mennen, Lizzie McDevitt, Sam Nastase
 Project leader(s): Manoj Kumar
 
 ### Sponsors
+Brainhack Princeton 2019 is supported by the ReproNim Center for Reproducible Neuroimaging Computation, Intel Labs, and the Princeton University Department of Psychology Langfeld Fund.
 [<img src="https://www.repronim.org/images/logo-square-256.png" alt="ReproNim: A Center for Reproducible Neuroimaging Computation" height="100"/>](https://www.repronim.org/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/200px-Intel-logo.svg.png" alt="Intel Labs" height="100"/>](https://www.intel.com/content/www/us/en/research/overview.html) [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Princetonshieldlarge.png" alt="Princeton University" height="100"/>](https://psych.princeton.edu/)
