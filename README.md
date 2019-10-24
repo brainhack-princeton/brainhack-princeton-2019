@@ -25,6 +25,11 @@ Project leader(s): Anne Mennen, Lizzie McDevitt, Sam Nastase
 Project leader(s): Manoj Kumar
 
 ### Sponsors
-ReproNim: A Center for Reproducible Neuroimaging Computation  |  Intel Labs
-:-------------------------:|:-------------------------:
-![alt-text](https://www.repronim.org/images/logo-square-256.png "ReproNim")  |  ![alt-text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/200px-Intel-logo.svg.png "Intel")
+ReproNim: A Center for Reproducible Neuroimaging Computation
+<img src="https://www.repronim.org/images/logo-square-256.png" alt="ReproNim" width="100"/>
+
+Intel Labs
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/200px-Intel-logo.svg.png" alt="Intel Labs" width="100"/>
+
+Princeton University Department of Psyschology Langfeld Fund
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Princetonshieldlarge.png" alt="Princeton University" width="100"/>
