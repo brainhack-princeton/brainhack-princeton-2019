@@ -24,6 +24,8 @@ Project leader(s): Anne Mennen, Lizzie McDevitt, Sam Nastase
 * **BrainIAK Tutorials**  
 Project leader(s): Manoj Kumar
 
+---
+
 ### Schedule
 **Wednesday, November 13:**  
 * 8:45 AM: breakfast  
@@ -34,8 +36,6 @@ Project leader(s): Manoj Kumar
 * 1–5 PM: hacking  
 * 5:30 PM: dinner
 
----
-
 **Thursday, November 14:**  
 * 8:45 AM: breakfast  
 * 9–10 AM: progress report  
@@ -45,8 +45,6 @@ Project leader(s): Manoj Kumar
 * 4–5:30: Norman Lab meeting  
 * 5:30 PM: dinner  
 
----
-
 **Friday, November 15:**  
 * 8:45 AM: breakfast  
 * 9–10 AM: progress report  
@@ -55,6 +53,8 @@ Project leader(s): Manoj Kumar
 * 1–4 PM: hacking  
 * 4–5 PM: wrap-up  
 * 5:30 PM: dinner  
+
+---
 
 ### Sponsors
 Brainhack Princeton 2019 is supported by the [ReproNim Center for Reproducible Neuroimaging Computation](https://www.repronim.org/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), and the [Princeton University Department of Psychology Langfeld Fund](https://psych.princeton.edu/).
