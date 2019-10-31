@@ -55,6 +55,9 @@ Project leader(s): Manoj Kumar
 
 ---
 
+### Organizers
+Anne Mennen, Samuel A. Nastase, Elizabeth McDevitt, Karina Tachihara, Paula P. Brooks.
+
 ### Sponsors
 Brainhack Princeton 2019 is supported by the [ReproNim Center for Reproducible Neuroimaging Computation](https://www.repronim.org/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), and the [Princeton University Department of Psychology Langfeld Fund](https://psych.princeton.edu/).
 
