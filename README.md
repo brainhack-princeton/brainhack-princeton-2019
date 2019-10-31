@@ -33,25 +33,24 @@ Project leader(s): Manoj Kumar
 * 10–10:30 AM: project pitches  
 * 10:30–12 PM: hacking  
 * 12–1 PM: lunch  
-* 1–5 PM: hacking  
+* 1–5:30 PM: hacking  
 * 5:30 PM: dinner
 
 **Thursday, November 14:**  
 * 8:45 AM: breakfast  
-* 9–10 AM: progress report  
+* 9–10 AM: progress report and planning  
 * 10–11 AM: hacking  
 * 11:45–1 PM: lunch (PNI talk in A32)  
-* 1–5 PM: hacking  
-* 4–5:30: Norman Lab meeting  
+* 1–5:30 PM: hacking  
 * 5:30 PM: dinner  
 
 **Friday, November 15:**  
 * 8:45 AM: breakfast  
-* 9–10 AM: progress report  
+* 9–10 AM: progress report and planning  
 * 10–12 PM: hacking  
 * 12–1 PM: lunch  
 * 1–4 PM: hacking  
-* 4–5 PM: wrap-up  
+* 4–5:30 PM: wrap-up  
 * 5:30 PM: dinner  
 
 ---
